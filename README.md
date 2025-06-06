@@ -33,9 +33,16 @@ Financial Accounting — это удобное приложение для ко�
 
 ---
 
+## 🔍 Информация (wiki)
+
+https://github.com/pipichaan/Financial-accounting/wiki
+
+
+---
+
 ## 🚀 Установка и запуск
 
-Скопируйте репозиторий: 
+Перейдите по ссылке: https://github.com/pipichaan/Financial-accounting/releases
 
-https://github.com/pipichaan/Financial-accounting.git
+
 
